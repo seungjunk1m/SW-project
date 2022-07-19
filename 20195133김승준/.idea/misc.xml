@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/activity_member.xml" value="0.25" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/activity_password_reset.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/activity_sign_up.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/authemail_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/fragement_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/fragment_camera2_basic.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/fragment_course.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/82104/Desktop/0607/Mobile0607/app/src/main/res/layout/fragment_schedule.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/act_main.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_camera.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_gallery.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_login.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_maps.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_member.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_password_reset.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/activity_sign_up.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/authemail_dialog.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/fragement_home.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/fragment_camera2_basic.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/fragment_course.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/fragment_statistic.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/fragment_user_info.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/item_gallery.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/map_activity_main.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/view_loader.xml" value="0.30344202898550726" />
+        <entry key="..\:/Users/82104/Desktop/Mobile/app/src/main/res/layout/view_toolbar.xml" value="0.30344202898550726" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
